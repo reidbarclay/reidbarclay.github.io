@@ -7,22 +7,3 @@ p {
     font-family: "Poppins";
     margin-left: 20px;
 }
-
-.nav-bar {
-    color: red;
-    font-size: 30px;
-    font-family: "Helvetica";
-    margin: 50px;
-}
-
-.sign-up-link {
-    color: green;
-    font-size: 50px;
-    margin: 100px;
-}
-
-#log-in {
-    background-color: green;
-    color: white;
-    padding: 20px;
-}
